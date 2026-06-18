@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/header.png" width="420" />
-
 # Mario Ríos Holgado
 
 Android Developer building polished digital products with strong visual direction.
