@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="./assets/mario-illustration.png" width="100%" />
+<img src="./assets/header.png" width="850" />
 
-<h1>Mario Ríos Holgado</h1>
+# Mario Ríos Holgado
 
-<p>
-  Android Developer building polished digital products with strong visual direction.
-</p>
+Android Developer building polished digital products with strong visual direction.
 
 <p>
   <a href="https://mariorsh.github.io">
@@ -25,9 +23,9 @@
 
 <table>
 <tr>
-<td width="100%" colspan="2">
+<td width="100%" colspan="2" align="center">
 
-<img src="./assets/chapa.svg" width="100%" />
+<img src="./assets/chapa-cover.png" width="720" />
 
 ### Chapa
 
@@ -39,9 +37,9 @@ Voice-first AI assistant for Android, designed around natural interaction, speec
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-<img src="./assets/chinchin.svg" width="100%" />
+<img src="./assets/chinchin-cover.png" width="360" />
 
 ### Chinchin
 
@@ -52,9 +50,9 @@ Players join a shared game and get dynamic questions, dares and challenges gener
 `Kotlin` `Jetpack Compose` `AI` `Local Multiplayer` `Party Game`
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-<img src="./assets/dressing.png" width="100%" />
+<img src="./assets/dressing-cover.png" width="360" />
 
 ### Dressing
 
@@ -66,10 +64,12 @@ Fashion-oriented digital product focused on outfits, wardrobes, personal style a
 </tr>
 </table>
 
+---
+
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,firebase,gradle,github,figma,js,html,css,python,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=kotlin,android,firebase,gradle,github,figma,js,html,css,python,cs,dotnet" width="520" />
 </p>
 
 ---
