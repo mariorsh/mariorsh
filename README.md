@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mario-illustration.png" width="420" />
+<img src="./assets/header.png" width="420" />
 
 # Mario Ríos Holgado
 
