@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mario-illustration.png" width="850" />
+<img src="./assets/mario-illustration.png" width="420" />
 
 # Mario Ríos Holgado
 
@@ -23,9 +23,10 @@ Android Developer building polished digital products with strong visual directio
 
 <table>
 <tr>
-<td width="100%" colspan="2" align="center">
+<td width="25%"></td>
+<td width="50%" align="center">
 
-<img src="./assets/chapa.svg" width="720" />
+<img src="./assets/chapa.svg" width="260" />
 
 ### Chapa
 
@@ -34,12 +35,15 @@ Voice-first AI assistant for Android, designed around natural interaction, speec
 `Kotlin` `Jetpack Compose` `Android` `AI` `Speech UX`
 
 </td>
+<td width="25%"></td>
 </tr>
+</table>
 
+<table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<img src="./assets/chinchin.svg" width="360" />
+<img src="./assets/chinchin.svg" width="260" />
 
 ### Chinchin
 
@@ -50,9 +54,9 @@ Players join a shared game and get dynamic questions, dares and challenges gener
 `Kotlin` `Jetpack Compose` `AI` `Local Multiplayer` `Party Game`
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<img src="./assets/dressing.png" width="360" />
+<img src="./assets/dressing.png" width="260" />
 
 ### Dressing
 
@@ -69,7 +73,7 @@ Fashion-oriented digital product focused on outfits, wardrobes, personal style a
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,firebase,gradle,github,figma,js,html,css,python,cs,dotnet" width="520" />
+  <img src="https://skillicons.dev/icons?i=kotlin,android,firebase,gradle,github,figma,js,html,css,python,cs,dotnet" width="420" />
 </p>
 
 ---
@@ -78,3 +82,12 @@ Fashion-oriented digital product focused on outfits, wardrobes, personal style a
 
 ```txt
 Idea → Visual direction → Architecture → Prototype → Polished experience
+````
+
+<div align="center">
+
+### More about my work at
+
+<a href="https://mariorsh.github.io"><b>mariorsh.github.io</b></a>
+
+</div>
