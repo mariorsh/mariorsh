@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.png" width="850" />
+<img src="./assets/mario-illustration.png" width="850" />
 
 # Mario Ríos Holgado
 
@@ -25,7 +25,7 @@ Android Developer building polished digital products with strong visual directio
 <tr>
 <td width="100%" colspan="2" align="center">
 
-<img src="./assets/chapa-cover.png" width="720" />
+<img src="./assets/chapa.svg" width="720" />
 
 ### Chapa
 
@@ -39,7 +39,7 @@ Voice-first AI assistant for Android, designed around natural interaction, speec
 <tr>
 <td width="50%" align="center">
 
-<img src="./assets/chinchin-cover.png" width="360" />
+<img src="./assets/chinchin.svg" width="360" />
 
 ### Chinchin
 
@@ -52,7 +52,7 @@ Players join a shared game and get dynamic questions, dares and challenges gener
 </td>
 <td width="50%" align="center">
 
-<img src="./assets/dressing-cover.png" width="360" />
+<img src="./assets/dressing.png" width="360" />
 
 ### Dressing
 
