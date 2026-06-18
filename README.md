@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.png" width="100%" />
+<img src="./assets/mario-illustration.png" width="100%" />
 
 <h1>Mario Ríos Holgado</h1>
 
@@ -27,7 +27,7 @@
 <tr>
 <td width="100%" colspan="2">
 
-<img src="./assets/chapa-cover.png" width="100%" />
+<img src="./assets/chapa.svg" width="100%" />
 
 ### Chapa
 
@@ -41,7 +41,7 @@ Voice-first AI assistant for Android, designed around natural interaction, speec
 <tr>
 <td width="50%">
 
-<img src="./assets/chinchin-cover.png" width="100%" />
+<img src="./assets/chinchin.svg" width="100%" />
 
 ### Chinchin
 
@@ -54,7 +54,7 @@ Players join a shared game and get dynamic questions, dares and challenges gener
 </td>
 <td width="50%">
 
-<img src="./assets/dressing-cover.png" width="100%" />
+<img src="./assets/dressing.png" width="100%" />
 
 ### Dressing
 
