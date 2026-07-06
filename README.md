@@ -21,10 +21,22 @@ Android Developer building polished digital products with strong visual directio
 
 <table>
 <tr>
-<td width="25%"></td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<img src="./assets/chapa.svg" width="260" />
+<a href="https://cursosdroid.com">
+  <img src="./assets/cursosdroid.svg" alt="CursosDroid" width="220" />
+</a>
+
+### [CursosDroid](https://cursosdroid.com)
+
+Open-tech learning platform for Android and Kotlin Multiplatform, with structured courses, real code exercises and AI-powered feedback.
+
+`React` `TypeScript` `Supabase` `AI` `EdTech`
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="./assets/chapa.svg" width="220" />
 
 ### Chapa
 
@@ -33,7 +45,6 @@ Voice-first AI assistant for Android, designed around natural interaction, speec
 `Kotlin` `Jetpack Compose` `Android` `AI` `Speech UX`
 
 </td>
-<td width="25%"></td>
 </tr>
 </table>
 
@@ -41,7 +52,7 @@ Voice-first AI assistant for Android, designed around natural interaction, speec
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="./assets/chinchin.svg" width="260" />
+<img src="./assets/chinchin.svg" width="220" />
 
 ### Chinchin
 
@@ -54,7 +65,7 @@ Players join a shared game and get dynamic questions, dares and challenges gener
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="./assets/dressing.png" width="260" />
+<img src="./assets/dressing.png" width="220" />
 
 ### Dressing
 
