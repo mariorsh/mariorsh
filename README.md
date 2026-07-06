@@ -36,9 +36,11 @@ Open-tech learning platform for Android and Kotlin Multiplatform, with structure
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="./assets/chapa.svg" width="220" />
+<a href="https://chapa-landing.vercel.app/">
+  <img src="./assets/chapa.svg" alt="Chapa" width="220" />
+</a>
 
-### Chapa
+### [Chapa](https://chapa-landing.vercel.app/)
 
 Voice-first AI assistant for Android, designed around natural interaction, speech UX and a clean mobile experience.
 
@@ -52,9 +54,11 @@ Voice-first AI assistant for Android, designed around natural interaction, speec
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="./assets/chinchin.svg" width="220" />
+<a href="https://chinchin-app.vercel.app/">
+  <img src="./assets/chinchin.svg" alt="Chinchin" width="220" />
+</a>
 
-### Chinchin
+### [Chinchin](https://chinchin-app.vercel.app/)
 
 AI-powered drinking game for local multiplayer sessions.
 
