@@ -55,7 +55,7 @@ Voice-first AI assistant for Android, designed around natural interaction, speec
 <td width="50%" align="center" valign="top">
 
 <a href="https://chinchin-app.vercel.app/">
-  <img src="./assets/chinchin.svg" alt="Chinchin" width="220" />
+  <img src="https://chapa-landing.vercel.app/favicon.svg" alt="Chinchin" width="220" />
 </a>
 
 ### [Chinchin](https://chinchin-app.vercel.app/)
