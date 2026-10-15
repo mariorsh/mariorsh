@@ -2,7 +2,7 @@
 
 # Mario Ríos Holgado
 
-Android Developer building polished digital products with strong visual direction.
+Android & Kotlin Multiplatform developer building polished digital products and expressive UI libraries.
 
 <p>
   <a href="https://mariorsh.github.io">
@@ -14,6 +14,26 @@ Android Developer building polished digital products with strong visual directio
 </p>
 
 </div>
+
+---
+
+## Open Source · Sea Glass
+
+<p>
+  <a href="https://seaglass-web.vercel.app/">
+    <img src="https://seaglass-web.vercel.app/favicon.svg" alt="Sea Glass" width="72" height="72" />
+  </a>
+</p>
+
+### [Sea Glass](https://github.com/mariorsh/sea-glass)
+
+A Compose Multiplatform design system inspired by sea glass: frosted surfaces, illuminated edges and expressive shapes, built on Material 3.
+
+Customizable themes, optional Haze backdrop blur and components for **Android, iOS, desktop and web**. Published on **Maven Central**.
+
+`Kotlin` `Compose Multiplatform` `Material 3` `Design Systems` `Open Source`
+
+**[Explore the website ↗](https://seaglass-web.vercel.app/)** · [Interactive catalog](https://seaglass-web.vercel.app/en/catalog) · [Source code](https://github.com/mariorsh/sea-glass) · [Maven Central](https://central.sonatype.com/artifact/io.github.mariorsh.seaglass/seaglass-compose)
 
 ---
 
@@ -95,7 +115,7 @@ Fashion-oriented digital product focused on outfits, wardrobes, personal style a
 
 ```txt
 Idea → Visual direction → Architecture → Prototype → Polished experience
-````
+```
 
 <div align="center">
 
